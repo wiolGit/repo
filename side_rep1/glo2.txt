@@ -1,5 +1,5 @@
 sdfdsf
-Blame
+Blsdfdsfsdfme
 <<<<<<< HEAD
 Test eba
 Zosia
@@ -9,6 +9,6 @@ Malka
 Salka
 >>>>>>> origin/side
 
-Stas
+Sterewras
 Kireo
 Zalkow
