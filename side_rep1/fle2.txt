@@ -5,7 +5,7 @@ End Line1web
 
 Line 1 command
 
-
+Zmiana pomiedzy
 Koniec command
 
 
