@@ -6,7 +6,7 @@ End Line1web
 Line 1 command
 
 
-|Koniec command
+Koniec command
 
 
 
