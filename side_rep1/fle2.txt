@@ -7,7 +7,7 @@ Line 1 command
 Druga zmiana pomiedzy
 Zmiana pomiedzy
 Koniec command
-
+Trzecia zmiana command
 
 
 
