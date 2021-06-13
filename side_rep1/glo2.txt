@@ -9,6 +9,10 @@ Malka
 Salka
 >>>>>>> origin/side
 
+<<<<<<< HEAD
 Sterewras
+=======
+Stas
+>>>>>>> 692d42c (YZmiany)
 Kireo
 Zalkow
