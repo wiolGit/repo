@@ -1,3 +1,12 @@
 sdfdsf
-
+Blame
+<<<<<<< HEAD
 Test eba
+=======
+Malka
+
+Salka
+>>>>>>> origin/side
+
+
+Kireo
