@@ -1,0 +1,18 @@
+sdfdsf
+Blsdfdsfsdfme
+<<<<<<< HEAD
+Test eba
+Zosia
+=======
+Malka
+
+Salka
+>>>>>>> origin/side
+
+<<<<<<< HEAD
+Sterewras
+=======
+Stas
+>>>>>>> 692d42c (YZmiany)
+Kireo
+Zalkow

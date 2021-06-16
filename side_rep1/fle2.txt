@@ -1,0 +1,13 @@
+Line 1 WEb
+Zmiana web 2
+
+End Line1web
+
+Line 1 command
+Druga zmiana pomiedzy
+Zmiana pomiedzy
+Koniec command
+Trzecia zmiana command
+
+
+
